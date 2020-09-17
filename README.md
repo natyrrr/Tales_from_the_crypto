@@ -1,9 +1,9 @@
- 
  # Tales From The Crypto...
 
-<p align="center">
+
 ![Alt Text](https://media.giphy.com/media/1DQWAuidHJH8Y/giphy.gif)
-<p
+
+
 
 ## Background
 There's been a lot of hype in the news lately about cryptocurrency, so I want to take stock, so to speak, of the latest news headlines regarding Bitcoin and Ethereum to get a better feel for the current public sentiment around each coin.
