@@ -57,3 +57,7 @@ Q: Which coin had the highest compound score?
 Q. Which coin had the highest positive score?
 
 ### A: Bitcoin had the highest positive score with .267.
+
+## Bitcoin Sentiment Score
+
+![Alt Text](https://github.com/natyrrr/Tales_from_the_crypto/blob/master/Screen%20Shot%202020-09-17%20at%2011.59.52%20AM.png)
