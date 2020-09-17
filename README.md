@@ -61,3 +61,6 @@ Q. Which coin had the highest positive score?
 ## Bitcoin Sentiment Score
 
 ![Alt Text](https://github.com/natyrrr/Tales_from_the_crypto/blob/master/Screen%20Shot%202020-09-17%20at%2011.59.52%20AM.png)
+
+## Ethereum Sentiment Score
+![Alt Text](https://github.com/natyrrr/Tales_from_the_crypto/blob/master/Screen%20Shot%202020-09-17%20at%2012.00.02%20PM.png)
