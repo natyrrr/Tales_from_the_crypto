@@ -15,6 +15,9 @@ I will apply natural language processing to understand the sentiment in the late
 2. *Python*
 3. *NLK library*
 4. *NER*
+5. *SpaCY library*
+6. *News API Client*
+7. *Pandas*
 
 ### Complete the following tasks:
 
